@@ -1,6 +1,8 @@
 👋 Hi, I’m LauriKosonen, an ICT student at JAMK University with a passion for Web & UI development and design.
 
-🚀 Check out someof my published projects below!
+🚀 Check out some of my published projects below!
+[Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
+[About me (old)](https://student.labranet.jamk.fi/~AB7344/web_tekniikat/harjoitustyo/)
 
 
 
