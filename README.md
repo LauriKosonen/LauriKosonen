@@ -4,8 +4,9 @@
 - [Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
 - [About me (old)](https://student.labranet.jamk.fi/~AB7344/web_tekniikat/harjoitustyo/)
 
-- 📫 Reach me at: lhe.kosonen@gmail.com
-- 📫 [LinkedIn](https://www.linkedin.com/in/lauri-kosonen-090643263/)
+📫 Reach me at
+- lhe.kosonen@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lauri-kosonen-090643263/)
 
 
 <!---
