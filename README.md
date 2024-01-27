@@ -5,6 +5,7 @@
 🚀 Check out some of my published projects below!
 - [Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
 - [About me (old)](https://student.labranet.jamk.fi/~AB7344/web_tekniikat/harjoitustyo/)
+- [Simple weather app](https://student.labranet.jamk.fi/~AB7344/wuip/build/)
 
 📫 Reach me at:
 - lhe.kosonen@gmail.com
