@@ -1,11 +1,11 @@
-# 👋 Hi, I’m LauriKosonen, an ICT student at JAMK University with a passion for Web & UI development and design. Feel free to browse my public repositories!
+# 👋 Hi, I’m LauriKosonen, an ICT student at JAMK University of Applied Sciences with a passion for Web & UI development and design.
 
 ## 🚀 Check out some of my published projects below!
 
 ### Web Visualisation 
 - [Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
 ### My own WordPress theme
--[You can find a video demo of the theme in the repository's readme file](https://github.com/LauriKosonen/WordPress-Theme)
+- [You can find a video demo of the theme in the repository's readme file](https://github.com/LauriKosonen/WordPress-Theme)
 
 ### Older stuff
 
