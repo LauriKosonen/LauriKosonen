@@ -7,6 +7,9 @@
 ### My own WordPress theme
 - [You can find a video demo of the theme in the repository's readme file](https://github.com/LauriKosonen/WordPress-Theme)
 
+### Dashboard App with React (work in progress)
+- [Repository](https://github.com/LauriKosonen/Dashboard)
+
 ### Older stuff
 
 - [About me (old)](https://student.labranet.jamk.fi/~AB7344/web_tekniikat/harjoitustyo/)
