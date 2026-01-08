@@ -2,6 +2,11 @@
 
 ## 🚀 Check out some of my published projects below!
 
+### Fully functional dashboard app
+The app is made out of modular note- calendar- and weather widgets. The app supports multiple accounts and stores notes to a database.
+- [The App](https://laurikosonen.github.io/dashboard)
+- [The repository](https://github.com/LauriKosonen/dashboard)
+
 ### Web Visualisation 
 - [Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
 ### My own WordPress theme
