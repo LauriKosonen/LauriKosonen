@@ -1,4 +1,4 @@
-# 👋 Hi, I’m LauriKosonen, an ICT-Engineer with a passion for Web & UI development and design.
+# 👋 Hi, I’m Lauri Kosonen, an ICT-Engineer with a passion for Web & UI development and design.
 
 ## 🚀 Check out some of my published projects below!
 
