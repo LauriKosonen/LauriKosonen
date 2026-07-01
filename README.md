@@ -1,4 +1,4 @@
-# 👋 Hi, I’m LauriKosonen, an ICT student at JAMK University of Applied Sciences with a passion for Web & UI development and design.
+# 👋 Hi, I’m LauriKosonen, an ICT-Engineer with a passion for Web & UI development and design.
 
 ## 🚀 Check out some of my published projects below!
 
@@ -6,6 +6,9 @@
 The app is made out of modular note- calendar- and weather widgets. The app supports multiple accounts and stores notes to a database.
 - [The App](https://laurikosonen.github.io/dashboard)
 - [The repository](https://github.com/LauriKosonen/dashboard)
+
+### Table booking plugin for a WordPress site
+- [Flea market table booking repository]()
 
 ### Web Visualisation 
 - [Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
