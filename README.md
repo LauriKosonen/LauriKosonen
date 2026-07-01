@@ -8,7 +8,7 @@ The app is made out of modular note- calendar- and weather widgets. The app supp
 - [The repository](https://github.com/LauriKosonen/dashboard)
 
 ### Table booking plugin for a WordPress site
-- [Flea market table booking repository]()
+- [Flea market table booking repository](https://github.com/LauriKosonen/kirppis-varaus)
 
 ### Web Visualisation 
 - [Web Visualization final assignment](https://laurikosonen.github.io/Web-Visualization/final%20assignment/index.html)
