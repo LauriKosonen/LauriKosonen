@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Lauri Kosonen, an ICT-Engineer with a passion for Web & UI development and design.
+# Hello, I’m Lauri Kosonen, an ICT-Engineer with a passion for Web & UI development and design.
 
-## 🚀 Check out some of my published projects below!
+## Check out some of my published projects below!
 
 ### Fully functional dashboard app
 The app is made out of modular note- calendar- and weather widgets. The app supports multiple accounts and stores notes to a database.
