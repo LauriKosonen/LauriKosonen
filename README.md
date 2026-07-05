@@ -15,8 +15,6 @@ The app is made out of modular note- calendar- and weather widgets. The app supp
 ### My own WordPress theme
 - [You can find a video demo of the theme in the repository's readme file](https://github.com/LauriKosonen/WordPress-Theme)
 
-### Dashboard App with React (work in progress)
-- [Repository](https://github.com/LauriKosonen/Dashboard)
 
 ### Older stuff
 
